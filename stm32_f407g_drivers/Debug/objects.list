@@ -1,0 +1,6 @@
+"./Src/001led_toggle.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f407vgtx.o"
+"./drivers/Src/stm32_f407g_gpio_driver.o"
+"./drivers/Src/stm32_f407g_spi_drivers.o"
