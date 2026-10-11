@@ -1,0 +1,12 @@
+# STM32CubeIDE generated files
+
+.metadata/
+**/Debug/
+**/Release/
+
+# Temporary and operating-system files
+
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
